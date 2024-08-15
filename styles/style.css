@@ -16,7 +16,7 @@
 
 body {
     margin: 0 auto;
-    max-width: 1440px;
+    max-width: 86%;
     font-size: 0.8125rem;
     display: flex;
     flex-direction: column;
@@ -43,10 +43,12 @@ h3,
 
 h3 {
     font-size: 1.5rem;
+    margin-top: 0;
 }
 
 .job-title {
     opacity: 0.5;
+    margin-bottom: 0;
 }
 
 main {
@@ -67,6 +69,9 @@ main {
 .daniel-review {
     grid-area: daniel;
     background-color: var(--bg-daniel);
+    background-image: url("../images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: right 50px top 0;
 }
 
 .jonathon-review {
@@ -107,7 +112,6 @@ img {
 
 @media screen and (min-width: 375px) and (max-width: 1439px) {
     main {
-        max-width: 86%;
         margin: 20px auto;
         grid-template-columns: repeat(1, 100%);
         grid-template-areas:
