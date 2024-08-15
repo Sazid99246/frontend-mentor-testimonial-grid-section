@@ -16,7 +16,7 @@
 
 body {
     margin: 0 auto;
-    max-width: 86%;
+    max-width: 86vw;
     font-size: 0.8125rem;
     display: flex;
     flex-direction: column;
