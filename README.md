@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/Sazid99246/frontend-mentor-testimonial-grid-section)
-- Live Site URL: [Add live site URL here](https://sazid99246.github.io/frontend-mentor-testimonial-grid-section/)
+- Solution URL: [Source Code](https://github.com/Sazid99246/testimonial-grid-section)
+- Live Site URL: [Add live site URL here](https://sazid99246.github.io/testimonial-grid-section/)
 
 ## My process
 
